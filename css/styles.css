@@ -167,6 +167,7 @@ p, h1,h2,h3,h4,h5,h6 {
     color: #fff;
     margin-bottom: 48px;
     max-width: 496px;
+    padding: 188px 0
     
 }
 
@@ -253,7 +254,6 @@ p, h1,h2,h3,h4,h5,h6 {
     text-align: left;
     color: #434455;
 width: calc(100 - 3 * 24px)/4;
-padding: 120px 0
 
 }
 
