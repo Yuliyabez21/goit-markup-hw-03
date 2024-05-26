@@ -313,7 +313,9 @@ h6 {
     display: block
 }
 
-
+.team-name {
+padding: 32px 0;
+}
 
 .team-subtitle {
     font-weight: 500;
