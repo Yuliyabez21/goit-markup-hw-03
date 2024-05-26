@@ -253,6 +253,7 @@ p, h1,h2,h3,h4,h5,h6 {
     text-align: left;
     color: #434455;
 width: calc(100 - 3 * 24px)/4;
+padding: 120px 0
 
 }
 
@@ -394,7 +395,7 @@ gap: 24px;
 
 .footer-container {
     background-color: #2e2f42;
-    padding: 100px 1020px 100px 156px;
+    padding: 100px 1120px 100px 156px;
 }
 
 
