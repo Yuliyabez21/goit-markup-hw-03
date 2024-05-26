@@ -155,7 +155,7 @@ p, h1,h2,h3,h4,h5,h6 {
 
 .hero-container {
     background-color: #2e2f42;
-    padding: 188px 472px;
+    padding: 188px 472px 188px 472px;
 }
 
 .hero-title {
