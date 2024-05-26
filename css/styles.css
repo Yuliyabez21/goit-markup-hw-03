@@ -280,8 +280,9 @@ width: calc(100 - 3 * 24px)/4;
 
 .team-ul {
     display: flex;
-    column-gap: 24px;
-    row-gap: 48px;
+    gap: 24px;
+    /* column-gap: 24px;
+    row-gap: 48px; */
 
 }
 
@@ -315,6 +316,8 @@ width: calc(100 - 3 * 24px)/4;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    width: calc(100- 3 * 24)/4;
+
 }
 
 
