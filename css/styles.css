@@ -215,7 +215,7 @@ h6 {
 
 }
 
-.section {
+.section-features {
     padding: 120px 0;
 }
 
@@ -264,6 +264,13 @@ h6 {
 
 /* ------------------- */
 /* -----------TEAM---------------- */
+
+.section-team {
+    padding: 120px 0;
+
+}
+
+
 
 .team {
     background-color: #F4F4FD;
@@ -328,9 +335,10 @@ h6 {
 /* ------------------- */
 /* -----------PORTFOLIO---------------- */
 
-/* .section-portfolio {
-padding: 32px 16px;
-} */
+.section-portfolio {
+padding-top: 120px;
+    padding-bottom: 120px;
+}
 
 
 .features {
