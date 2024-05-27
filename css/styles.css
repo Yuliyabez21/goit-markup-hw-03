@@ -242,6 +242,7 @@ h6 {
 }
 
 .features-list {
+    width: calc(100 - 3 * 24px)/4;
     
 }
 
@@ -263,7 +264,7 @@ h6 {
     letter-spacing: 0.02em;
     text-align: left;
     color: #434455;
-    width: calc(100 - 3 * 24px) / 4;
+    
     
 
 }
@@ -302,14 +303,13 @@ h6 {
     display: flex;
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% - 3 * 24px) / 4);
     gap: 24px;
-    border-radius: 0px 0px 4px 4px;
-
 }
 
 .team-list {
     background-color: #FFFFFF;
+    width: calc(100% - 3 * 24px)/4;
+    border-radius: 0px 0px 4px 4px;
 }
 
 
