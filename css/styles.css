@@ -242,7 +242,7 @@ h6 {
 }
 
 .features-list {
-    width: calc(100 - 3 * 24px)/4;
+    
     
 }
 
@@ -264,10 +264,8 @@ h6 {
     letter-spacing: 0.02em;
     text-align: left;
     color: #434455;
-    
-    
-
-}
+    width: calc(100 - 3 * 24px)/4;
+    }
 
 /* ------------------- */
 /* -----------TEAM---------------- */
