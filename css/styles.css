@@ -157,12 +157,12 @@ h6 {
 /* --------HERO--------- */
 
 .hero {
-    padding: 188px 0
+    padding: 188px 0;
+    background-color: #2e2f42;
 }
 
 .hero-container {
-    background-color: #2e2f42;
-    padding: 188px 472px;
+    /* padding: 188px 472px; */
 }
 
 .hero-title {
@@ -170,10 +170,11 @@ h6 {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;
     margin-bottom: 48px;
     max-width: 496px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
@@ -270,7 +271,7 @@ h6 {
 /* -----------TEAM---------------- */
 
 .section-team {
-    padding: 120px 0;
+    /* padding: 120px 0; */
 
 }
 
@@ -345,14 +346,14 @@ padding: 32px 0;
 /* -----------PORTFOLIO---------------- */
 
 .section-portfolio {
-padding-top: 120px;
-    padding-bottom: 120px;
+/* padding-top: 120px;
+    padding-bottom: 120px; */
 }
 
 
 .features {
     font-weight: 700;
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -393,7 +394,7 @@ padding-top: 120px;
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px
+    /* margin-bottom: 8px */
 }
 
 
@@ -404,8 +405,8 @@ padding-top: 120px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-top: 32px;
-    /* margin-bottom: 8px; */
+    /* margin-top: 32px; */
+    margin-bottom: 8px;
     text-align: left;
 }
 
@@ -417,8 +418,8 @@ padding-top: 120px;
     letter-spacing: 0.02em;
     text-align: left;
     color: #434455;
-    padding-bottom: 32px;
-    padding-top: 32px;
+    /* padding-bottom: 32px;
+    padding-top: 32px; */
 }
 
 
@@ -428,11 +429,12 @@ padding-top: 120px;
 .footer {
     padding-top: 120px;
     padding: 100px 0;
+    background-color: #2e2f42;
 }
 
 .footer-container {
-    background-color: #2e2f42;
-    padding: 100px 1020px 100px 156px;
+    
+    /* padding: 100px 1020px 100px 156px; */
 }
 
 
@@ -463,4 +465,5 @@ padding-top: 120px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+    max-width: 264px;
 }
