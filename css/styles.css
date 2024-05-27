@@ -156,7 +156,9 @@ h6 {
 
 /* --------HERO--------- */
 
-.hero {}
+.hero {
+    padding: 188px 0
+}
 
 .hero-container {
     background-color: #2e2f42;
