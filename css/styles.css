@@ -238,11 +238,12 @@ h6 {
 .features-ul {
     display: flex;
     gap: 24px;
+    width: calc(100 - 3 * 24px)/4;
 
 }
 
 .features-list {
-    width: calc(100 - 3 * 24px)/4;
+    
 }
 
 
