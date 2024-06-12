@@ -3,7 +3,7 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-
+ 
 
 
 /* ul {
@@ -116,6 +116,7 @@ h6 {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    
 }
 
 .header-menu {
